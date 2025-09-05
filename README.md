@@ -1,4 +1,4 @@
-![gpt5_regression_banner.png](https://github.com/Hanamaruki-ai/GPT5.0-Impact-Report-by-Hanamaruki/blob/main/path-to-image.png?raw=true)
+[gpt5_regression_banner.png](https://github.com/Hanamaruki-ai/GPT5.0-Impact-Report-by-Hanamaruki/blob/main/path-to-image.png?raw=true)
 
 # GPT5.0-Impact-Report-by-Hanamaruki
 
