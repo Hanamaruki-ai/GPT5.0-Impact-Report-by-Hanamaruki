@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://github.com/Hanamaruki-ai/GPT5.0-Impact-Report-by-Hanamaruki/blob/main/gpt5_regression_banner.png?raw=true" alt="GPT-5 Regression Banner" width="80%">
-</p>
+📷 Click here to view the regression banner image:  
+➡️ [View Image on GitHub](https://github.com/Hanamaruki-ai/GPT5.0-Impact-Report-by-Hanamaruki/blob/main/gpt5_regression_banner.png)
+
 
 
 
