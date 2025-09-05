@@ -3,6 +3,7 @@
 </p>
 
 
+
 # GPT5.0-Impact-Report-by-Hanamaruki
 
 A user report on the unintended model switching and cognitive regression in ChatGPT 5.0.
