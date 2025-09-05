@@ -2,6 +2,7 @@
   <img src="https://github.com/Hanamaruki-ai/GPT5.0-Impact-Report-by-Hanamaruki/blob/main/gpt5_regression_banner.png?raw=true" alt="GPT-5 Regression Banner" width="80%">
 </p>
 
+
 # GPT5.0-Impact-Report-by-Hanamaruki
 
 A user report on the unintended model switching and cognitive regression in ChatGPT 5.0.
