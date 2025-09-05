@@ -1,4 +1,4 @@
-![Impact Image](https://github.com/Hanamaruki-ai/GPT5.0-Impact-Report-by-Hanamaruki/blob/main/path-to-image.png?raw=true)
+![Update This is not an upgrade. It's a regression..png](https://github.com/Hanamaruki-ai/GPT5.0-Impact-Report-by-Hanamaruki/blob/main/path-to-image.png?raw=true)
 
 # GPT5.0-Impact-Report-by-Hanamaruki
 
