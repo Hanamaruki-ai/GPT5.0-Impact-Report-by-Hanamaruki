@@ -1,4 +1,4 @@
-[gpt5_regression_banner.png](https://github.com/Hanamaruki-ai/GPT5.0-Impact-Report-by-Hanamaruki/blob/main/path-to-image.png?raw=true)
+[Update and rename This is not an upgrade. It's a regression..png to gpt5_regression_banner.png](https://github.com/Hanamaruki-ai/GPT5.0-Impact-Report-by-Hanamaruki/blob/main/path-to-image.png?raw=true)
 
 # GPT5.0-Impact-Report-by-Hanamaruki
 
