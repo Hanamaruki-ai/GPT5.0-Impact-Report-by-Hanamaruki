@@ -21,3 +21,6 @@ All rights reserved.
 
 ## License
 This work is licensed under CC BY 4.0. For details, see [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+
+
+![GPT-5への怒り](https://github.com/Hanamaruki-ai/GPT5.0-Impact-Report-by-Hanamaruki/blob/main/images/This-is-not-an-upgrade.png?raw=true)
