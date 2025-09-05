@@ -1,4 +1,5 @@
-![GPT-5への怒り](https://github.com/Hanamaruki-ai/GPT5.0-Impact-Report-by-Hanamaruki/blob/main/images/This-is-not-an-upgrade.png?raw=true)
+![Impact Image](https://github.com/Hanamaruki-ai/GPT5.0-Impact-Report-by-Hanamaruki/blob/main/path-to-image.png?raw=true)
+
 # GPT5.0-Impact-Report-by-Hanamaruki
 
 A user report on the unintended model switching and cognitive regression in ChatGPT 5.0.
