@@ -1,9 +1,3 @@
-📷 Click here to view the regression banner image:  
-➡️ [View Image on GitHub](https://github.com/Hanamaruki-ai/GPT5.0-Impact-Report-by-Hanamaruki/blob/main/gpt5_regression_banner.png)
-
-
-
-
 # GPT5.0-Impact-Report-by-Hanamaruki
 
 A user report on the unintended model switching and cognitive regression in ChatGPT 5.0.
