@@ -86,6 +86,8 @@ To document and share this issue with the research community, aiming for transpa
 All rights reserved.
 
 「xAIへ：SOVでGrokの安全性を革命。Ping動画はAIの限界を示す」と追記。https://x.ai/contactでリンクを送る。
+
+#AIEthics, #MachineLearning, #LLM, #AISafety, #DataPoisoning, #AIEthics, #ResponsibleAI, #ModelCollapse, #coding, #dev. #open-source,
 This work is licensed under CC BY 4.0. For details, see [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
 
